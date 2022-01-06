@@ -12,6 +12,94 @@
         "Yumbini": "/proxy/api/imgur/chapter/A4PWgQG/"
       },
       "last_updated": "1616368746"
-    }
+    },
+    "2": {
+      "title": "Anything For You",
+      "volume": "2",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<vsKi386/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Anything For You 2",
+      "volume": "2",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/HEiT8RF/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Living Doll Sumire: Semester of Pleasure",
+      "volume": "3",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/i8g0zqm/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Living Doll Sumire: Summer of Pleasure",
+      "volume": "3",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Living Doll Sumire: Summer of Pleasure 2",
+      "volume": "3",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "<Imaizumi Brings All the Gyarus to His House 1",
+      "volume": "4",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Imaizumi Brings All the Gyarus to His House 2",
+      "volume": "4",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Imaizumi Brings All the Gyarus to His House 3",
+      "volume": "4",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Imaizumi Brings All the Gyarus to His House 4",
+      "volume": "4",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "11": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
