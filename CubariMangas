@@ -57,7 +57,7 @@
       "title": "<Imaizumi Brings All the Gyarus to His House 1",
       "volume": "4",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/FAcYDIJ/"
       },
       "last_updated": "1616368746"
     },
@@ -65,7 +65,7 @@
       "title": "Imaizumi Brings All the Gyarus to His House 2",
       "volume": "4",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/<oCizY7D/"
       },
       "last_updated": "1616368746"
     },
@@ -73,7 +73,7 @@
       "title": "Imaizumi Brings All the Gyarus to His House 3",
       "volume": "4",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/mQbUNPO/"
       },
       "last_updated": "1616368746"
     },
@@ -89,7 +89,7 @@
       "title": "Holiday with My Busty Cousin",
       "volume": "5",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/kXGxWMR/"
       },
       "last_updated": "1616368746"
     },
@@ -97,7 +97,7 @@
       "title": "Holiday with My Busty Cousin 2",
       "volume": "5",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/TIgJhXt/"
       },
       "last_updated": "1616368746"
     },
@@ -105,7 +105,7 @@
       "title": "<Holiday with My Busty Cousin 3",
       "volume": "5",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/33XBCD0/"
       },
       "last_updated": "1616368746"
     },
@@ -113,7 +113,7 @@
       "title": "Holiday with My Busty Cousin 4 - NTR End",
       "volume": "5",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/EdyXguh/"
       },
       "last_updated": "1616368746"
     },
@@ -121,17 +121,41 @@
       "title": "Holiday with My Busty Cousin 4 - Vanilla End",
       "volume": "5",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<group name>": "/proxy/api/imgur/chapter/pFYNsfq/"
       },
       "last_updated": "1616368746"
     },
-    "16": {
+    "17": {
+      "title": "Boy Toy Rental Service",
+      "volume": "6",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/B0VpJ0g/"
+      },
+      "last_updated": "1616368746"
+    },
+    "18": {
+      "title": "Anything For My Husband",
+      "volume": "6",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/fO8t3u9/"
+      },
+      "last_updated": "1616368746"
+    },
+    "19": {
+      "title": "Ema",
+      "volume": "6",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/iLRozAQ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "20": {
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
