@@ -1,0 +1,17 @@
+{
+  "title": "Ayo",
+  "description": "Doujinshis",
+  "artist": "Various",
+  "author": "Yumbini",
+  "cover": "https://imgur.com/a/A4PWgQG",
+  "chapters": {
+    "1": {
+      "title": "My Friend's Mom is a Stacked Widow",
+      "volume": "1",
+      "groups": {
+        "Yumbini": "/proxy/api/imgur/chapter/A4PWgQG/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
